@@ -1,2 +1,3 @@
-# xiaoACE-s-Kook-Bot
+# xiaoACE's-Kook-Bot
 这是一个KOOK(开黑啦)机器人项目
+如果不从新建文件夹开始，那么这个项目会永远都还停留在未开工
